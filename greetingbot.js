@@ -13,3 +13,6 @@ console.log("Allow me to introduce myself.");
 //step 7
 let botIntroduction = "My name is "+ bot + ".";
 console.log(botIntroduction);
+//step 8
+let botLocationSentence = "I live in " + botLocation + ".";
+console.log(botLocationSentence);
