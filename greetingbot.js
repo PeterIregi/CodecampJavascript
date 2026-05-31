@@ -22,5 +22,8 @@ bot = "professorBot";
 let nicknameIntroduction = "My nickname is " + bot + ".";
 console.log(nicknameIntroduction);
 //step 11
-bot = "awesomeTeacherBot"
+bot = "awesomeTeacherBot";
+//step 12
+let newNicknameGreeting = "Ilove my nickname but wish people would call me " + bot +".";
+console.log(newNicknameGreeting);
 
