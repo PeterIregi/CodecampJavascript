@@ -16,3 +16,5 @@ console.log(botIntroduction);
 //step 8
 let botLocationSentence = "I live in " + botLocation + ".";
 console.log(botLocationSentence);
+//step 9
+bot = "professorBot";
