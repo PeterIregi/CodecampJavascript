@@ -10,3 +10,6 @@ bot = "teacherBot";
 let botLocation = "the universe";
 //step 6
 console.log("Allow me to introduce myself.");
+//step 7
+let botIntroduction = "My name is "+ bot + ".";
+console.log(botIntroduction);
