@@ -6,3 +6,5 @@ console.log("I am  excited to talk to you.");
 let bot ;
 //step 4
 bot = "teacherBot";
+//step 5
+let botLocation = "the universe";
