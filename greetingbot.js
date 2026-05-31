@@ -1,3 +1,6 @@
+//step 1
 console.log("Hi there!");
-
+//step 2
 console.log("I am  excited to talk to you.");
+//step 3
+let bot ;
