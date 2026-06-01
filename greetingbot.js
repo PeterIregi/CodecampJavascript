@@ -28,5 +28,8 @@ let newNicknameGreeting = "I love my nickname but I wish people would call me " 
 console.log(newNicknameGreeting);
 //step 13
 let favoriteSubject = "Computer Science";
+//step 14
+let favoriteSubjectSentence = "My favorite subject is " + favoriteSubject + ".";
+console.log(favoriteSubjectSentence);
 
 
