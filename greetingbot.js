@@ -24,6 +24,9 @@ console.log(nicknameIntroduction);
 //step 11
 bot = "awesomeTeacherBot";
 //step 12
-let newNicknameGreeting = "Ilove my nickname but wish people would call me " + bot +".";
+let newNicknameGreeting = "I love my nickname but I wish people would call me " + bot +".";
 console.log(newNicknameGreeting);
+//step 13
+let favoriteSubject = "Computer Science";
+
 
