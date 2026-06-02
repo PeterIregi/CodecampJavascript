@@ -12,3 +12,5 @@ place ="kitchen"
 adjective2 = "beautiful";
 noun2 = "lady";
 
+
+let firstStory = "Once upon a time, there was a(n) "+adjective+" "+noun+" who loved to eat "+noun2+". The "+noun+" lived in a "+place+" and had "+adjective2+" nostrils that blew fire when it was "+verb+".";
