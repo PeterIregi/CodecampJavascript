@@ -14,3 +14,15 @@ noun2 = "lady";
 
 
 let firstStory = "Once upon a time, there was a(n) "+adjective+" "+noun+" who loved to eat "+noun2+". The "+noun+" lived in a "+place+" and had "+adjective2+" nostrils that blew fire when it was "+verb+".";
+console.log("First story: "+firstStory);
+
+let secondStory;
+
+adjective = "beautiful";
+noun = " chair";
+verb ="sit";
+place="desert";
+adjective2="small";
+noun2 ="cup";
+
+secondStory="Once upon a time, there was a(n) "+adjective+" "+noun+" who loved to eat "+noun2+". The "+noun+" lived in a "+place+" and had "+adjective2+" nostrils that blew fire when it was "+verb+".";
