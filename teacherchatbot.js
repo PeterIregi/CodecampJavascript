@@ -44,3 +44,8 @@ console.log(subject[1]);
 
 console.log(`Here is an example of accessing the last letter in the word ${subject}.`);
 
+//step 13
+
+let lastCharacter = subject[subject.length-1];
+console.log(lastCharacter);
+
