@@ -19,3 +19,5 @@ let strLengthIntro = `Here is an example of using the length property on the wor
 
 console.log(strLengthIntro);
 
+//step 7
+console.log(subject.length);
