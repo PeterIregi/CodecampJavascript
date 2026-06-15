@@ -2,4 +2,6 @@
 console.log("Hi there!");
 //step 2
 let botName ="teacherBot";
-
+//step 3
+let greeting=`My name is ${botName}.`;
+console.log(greeting);
