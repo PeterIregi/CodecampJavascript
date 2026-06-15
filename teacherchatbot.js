@@ -31,3 +31,6 @@ console.log(topic.length);
 
 console.log(`Here is an example of accessing the first letter in the word ${subject}.`);
 
+//step 10
+
+console.log(subject[0]);
