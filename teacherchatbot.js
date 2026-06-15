@@ -51,4 +51,12 @@ console.log(lastCharacter);
 
 //step 14
 
-let learningIsFunSentence = "Learning is fun."
+let learningIsFunSentence = "Learning is fun.";
+
+//step 15
+
+console.log("Here are examples of finding the positions of substrings in the sentence.");
+ 
+//step 16
+
+console.log(learningIsFunSentence.indexOf("Learning"));
