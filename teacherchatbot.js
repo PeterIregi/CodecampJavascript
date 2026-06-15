@@ -60,3 +60,10 @@ console.log("Here are examples of finding the positions of substrings in the sen
 //step 16
 
 console.log(learningIsFunSentence.indexOf("Learning"));
+
+//step 17
+
+console.log(learningIsFunSentence.indexOf("fun"));
+
+console.log(learningIsFunSentence.indexOf("learning"));
+
