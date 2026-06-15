@@ -21,3 +21,8 @@ console.log(strLengthIntro);
 
 //step 7
 console.log(subject.length);
+
+//step 8
+
+console.log(`Here is an example of using the length property on the word ${topic}.`);
+console.log(topic.length);
