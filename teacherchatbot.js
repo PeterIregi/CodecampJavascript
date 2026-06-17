@@ -67,3 +67,12 @@ console.log(learningIsFunSentence.indexOf("fun"));
 
 console.log(learningIsFunSentence.indexOf("learning"));
 
+//step 18
+console.log("I hope you enjoyed learning today.");
+
+
+
+
+
+
+
