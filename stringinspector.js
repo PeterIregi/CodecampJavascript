@@ -32,3 +32,5 @@ console.log(`The first word is "${greetingWord}".`)
 let endPunctuation = message.slice(-1);
 
 console.log(`The ending punctuation mark is a "${endPunctuation}"`)
+//step 12
+console.log("Workshop complete! You now know how to use includes() and slice().")
