@@ -6,3 +6,7 @@ console.log("Here are some examples of the includes() method:")
 let hasFreeCodeCamp =fccSentence.includes("freeCodeCamp");
 //step 4
 console.log(`fccSentence.includes("freeCodeCamp") returns ${hasFreeCodeCamp} because the word "freeCodeCamp" is in the sentence.`)
+//step 5
+let hasJavaScript = fccSentence.includes("JavaScript");
+
+console.log(`fccSentence.includes("JavaScript") returns ${hasJavaScript} because the word "JavaScript" is not in the sentence.`)
