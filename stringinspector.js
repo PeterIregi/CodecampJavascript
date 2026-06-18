@@ -10,3 +10,8 @@ console.log(`fccSentence.includes("freeCodeCamp") returns ${hasFreeCodeCamp} bec
 let hasJavaScript = fccSentence.includes("JavaScript");
 
 console.log(`fccSentence.includes("JavaScript") returns ${hasJavaScript} because the word "JavaScript" is not in the sentence.`)
+//step 6
+
+let hasLowercaseFCC = fccSentence.includes("freecodecamp");
+
+console.log(`fccSentence.includes("freecodecamp") returns ${hasLowercaseFCC} because includes is case-sensitive.`);
