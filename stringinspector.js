@@ -22,3 +22,5 @@ let message = "Welcome to freeCodeCamp!";
 console.log("Here are some examples of the slice() method:")
 //step 8
 let platform = message.slice(11,23);
+//step 9
+console.log(`The word "${platform}" was sliced from the message.`)
