@@ -4,3 +4,5 @@ let userInput = "   Hello World!   ";
 console.log("Original input:");
 //step 3
 console.log(userInput);
+//step 4
+let cleanedInput = userInput.trim()
