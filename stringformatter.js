@@ -14,3 +14,9 @@ let trimmedStart = userInput.trimStart();
 //step 7
 console.log("After using the trimStart() method, leading spaces removed:");
 console.log(trimmedStart);
+//step 8
+const trimmedEnd = userInput.trimEnd();
+//step 9
+console.log("After using the trimEnd() method, trailing spaces removed:");
+console.log(trimmedEnd);
+//
