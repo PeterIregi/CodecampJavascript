@@ -9,3 +9,5 @@ let cleanedInput = userInput.trim();
 //step 5
 console.log("Result of trimming whitespace from both ends:");
 console.log(cleanedInput);
+//step 6
+let trimmedStart = userInput.trimStart();
