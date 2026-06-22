@@ -28,4 +28,14 @@ console.log(upperCaseInput);
 let lowerCaseInput = cleanedInput.toLowerCase();
 console.log("Result of using the toLowerCase() method:");
 console.log(lowerCaseInput);
-//
+//step 13
+let lowercaseWord = "camelcase";
+let camelCasedVersion = "";
+console.log("Camel cased version:");
+console.log(camelCasedVersion);
+//step 14
+camelCasedVersion = lowercaseWord.slice(0,5);
+//step 15
+console.log("Camel cased version:");
+console.log(camelCasedVersion);
+camelCasedVersion =lowercaseWord.slice(0,5)+lowercaseWord[5].toUpperCase();
