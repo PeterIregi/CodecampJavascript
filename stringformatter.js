@@ -24,3 +24,8 @@ let upperCaseInput = cleanedInput.toUpperCase();
 //step 11
 console.log("Result of using the toUpperCase() method:");
 console.log(upperCaseInput);
+//step 12
+let lowerCaseInput = cleanedInput.toLowerCase();
+console.log("Result of using the toLowerCase() method:");
+console.log(lowerCaseInput);
+//
