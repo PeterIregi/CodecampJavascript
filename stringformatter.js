@@ -11,3 +11,6 @@ console.log("Result of trimming whitespace from both ends:");
 console.log(cleanedInput);
 //step 6
 let trimmedStart = userInput.trimStart();
+//step 7
+console.log("After using the trimStart() method, leading spaces removed:");
+console.log(trimmedStart);
