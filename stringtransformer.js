@@ -10,3 +10,10 @@ let replacedString = originalString.replace("cats", "dogs");
 console.log("After using the replace() method:");
 console.log(replacedString);
 //step 5
+let exampleSentence = "I love cats and cats are so much fun!";
+console.log("Original sentence:");
+console.log(exampleSentence);
+//step 6
+let dogsOnlySentence = exampleSentence.replace("cats", "dogs");
+console.log("Replacing all occurrences of cats with dogs:");
+console.log(dogsOnlySentence);
