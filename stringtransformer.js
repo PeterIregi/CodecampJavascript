@@ -17,3 +17,7 @@ console.log(exampleSentence);
 let dogsOnlySentence = exampleSentence.replace("cats", "dogs");
 console.log("Replacing all occurrences of cats with dogs:");
 console.log(dogsOnlySentence);
+//step 7
+dogsOnlySentence = exampleSentence.replaceAll("cats", "dogs");
+
+console.log(dogsOnlySentence);
