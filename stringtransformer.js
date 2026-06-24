@@ -21,3 +21,12 @@ console.log(dogsOnlySentence);
 dogsOnlySentence = exampleSentence.replaceAll("cats", "dogs");
 
 console.log(dogsOnlySentence);
+//step 8
+let learningSentence = "I love learning!";
+console.log("Original learning sentence:");
+console.log(learningSentence);
+//step 9
+let repeatedLove = "love ".repeat(3);
+
+console.log(repeatedLove);
+//
