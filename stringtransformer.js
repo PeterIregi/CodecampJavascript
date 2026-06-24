@@ -29,4 +29,6 @@ console.log(learningSentence);
 let repeatedLove = "love ".repeat(3);
 
 console.log(repeatedLove);
-//
+//step 10 
+let newSentence = "I "+repeatedLove+ " learning.";
+console.log(newSentence);
