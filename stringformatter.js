@@ -42,4 +42,5 @@ camelCasedVersion =lowercaseWord.slice(0,5)+lowercaseWord[5].toUpperCase();
 //step 16
 console.log(camelCasedVersion);
 camelCasedVersion = lowercaseWord.slice(0,5)+lowercaseWord[5].toUpperCase()
-+lowercaseWord.slice(-3)
++lowercaseWord.slice(-3
+)
