@@ -26,4 +26,9 @@ console.log(numRoundedDown);
 console.log("Now, generate a random integer between two values.");
 //step 9
 let randomInt = Math.random() * (max - min) + min;
-console.log(randomInt)
+console.log(randomInt);
+//step 10
+console.log("The Math.ceil() method rounds the value up to the nearest whole integer.");
+//step 11
+let numRoundedUp = Math.ceil(3.2);
+console.log(numRoundedUp);
