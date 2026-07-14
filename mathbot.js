@@ -16,4 +16,9 @@ let max =100;
 let randomNum2 = Math.random()*(max-min)+min;
 
 console.log(randomNum2)
+//step 6
 
+console.log("The Math.floor() method rounds the value down to the nearest whole integer.");
+//step 7
+const numRoundedDown = Math.floor(6.7);
+console.log(numRoundedDown);
