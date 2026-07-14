@@ -40,3 +40,13 @@ let numRounded = Math.round(2.7);
 console.log(numRounded);
 let numRounded2 = Math.round(11.2);
 console.log(numRounded2);
+//step 14
+console.log("The Math.max() and Math.min() methods are used to get the maximum and minimum number from a range.");
+//step 15
+let maxNum = Math.max(3,125,55,24);
+console.log(maxNum);
+let minNum = Math.min(6,90,14,2);
+console.log(minNum);
+//step 16
+console.log("It was fun learning about the different Math methods with you!");
+
