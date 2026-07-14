@@ -22,3 +22,8 @@ console.log("The Math.floor() method rounds the value down to the nearest whole 
 //step 7
 const numRoundedDown = Math.floor(6.7);
 console.log(numRoundedDown);
+//step 8
+console.log("Now, generate a random integer between two values.");
+//step 9
+let randomInt = Math.random() * (max - min) + min;
+console.log(randomInt)
