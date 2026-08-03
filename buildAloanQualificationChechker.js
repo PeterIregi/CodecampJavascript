@@ -6,10 +6,9 @@ let minIncomeForCar = 30000;
 let minCreditScoreForCar = 650;
 
 function getLoanMessage(annualIncome, creditScore) {
-  let message ;
-  if (annualIncome >=minIncomeDuplex && creditScore >= minCreditScoreForDuplex){
+ let message;
+  if (annualIncome >= minIncomeForDuplex && creditScore >= minCreditScoreForDuplex){
     message = "You qualify for a duplex, condo, and car loan."
-    
-  }  
+  }
   return message
 }
