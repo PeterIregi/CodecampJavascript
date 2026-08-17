@@ -11,3 +11,7 @@ function getShoppingListMsg(arr) {
 }
 
 console.log(getShoppingListMsg(shoppingList));
+
+shoppingList.push("Grapes");
+
+console.log(getShoppingListMsg(shoppingList));
