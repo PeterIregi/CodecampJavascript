@@ -35,3 +35,10 @@ function getRandomLunch(arr){
 
   }
 }
+function showLunchMenu(arr){
+  if (arr.length === 0){
+    console.log("The menu is empty.")
+  }else{
+    console.log("Menu items: "+ arr)
+  }
+}
