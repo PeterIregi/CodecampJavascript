@@ -27,5 +27,11 @@ function removeFirstLunch(arr){
     return arr
 }
 function getRandomLunch(arr){
-  
+  if (arr.length === 0 ){
+    return "No lunches available."
+  }else{
+    let index = Math.Floor(Math.Random()*(arr.lenght-0)+0)
+    console.log(`Randomly selected lunch: ${arr[index]}`)
+
+  }
 }
