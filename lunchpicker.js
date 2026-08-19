@@ -18,4 +18,14 @@ function removeLastLunch(arr){
     return arr
   }
 }
-function
+function removeFirstLunch(arr){
+    if (arr.length === 0){
+      return "No lunches to remove."
+    }
+    let str = arr.shift();
+    console.log(`${str} removed from the start of the lunch menu.`);
+    return arr
+}
+function getRandomLunch(arr){
+  
+}
